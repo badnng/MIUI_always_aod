@@ -3,7 +3,7 @@
 1.更新机型白名单(MI 11 青春版/MI 8 SE)
 <br />
 <br />
-请注意！不要直接安装，会出bug，点击下载之后再本地安装!!!
+请注意！不要直接安装，会出bug，去 https://badnng.github.io/MIUI_always_aod/miuiaul.zip 下载之后再本地安装!!!
 <br />
 欢迎大家在issue里面补充机型！！<br />
 欢迎大家在issue里面补充机型！！
