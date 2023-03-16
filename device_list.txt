@@ -1,34 +1,47 @@
+更新日志（2023/03/16）：
+1.删除机型：civi2
+2.添加机型: MI 11 青春版/MI 8 SE
+3.优化排版，查看更简洁明了~
+
 Redmi：
-note 12全系
+Note 12全系(Note12/Note 12 Pro/Note 12 Pro+/Note 12 Spped)
 redwood ruby sunstone
+
+
 Note 11 Pro
 vida
-K30Pro
-lmi
-K30 至尊纪念
-cezanne
+
+
+K30Pro----lmi
+
+
+K30 至尊纪念---cezanne
+
+
 K40全系
-alioth haydn ares munch
+K40(POCO F4)   K40 Pro(K40 Pro+)  K40 Gaming  K40s(POCO F4)
+alioth    haydn    ares    munch
+
 
 小米:
-小米8
-dipper
-小米8屏幕指纹
-equuleus
-小米8 透明探索
-ursa
-小米9
-cepheus
-小米9 Pro
-crux
-小米10
-umi
-小米10 pro
-cmi
-小米10s
-thyme
-小米civi全系
-mona zijin ziyi
+小米8全系(屏幕指纹/透明探索/SE)
+dipper  equuleus  ursa  sirius
+
+
+小米9系列(9/9 Pro)
+cepheus crux
+
+
+小米10(10/10Pro/10s)
+umi  cmi  thyme
+
+
+小米11 青春
+renoir
+
+
+小米civi1系列(civi1/1s)
+mona zijin
 
 
 
