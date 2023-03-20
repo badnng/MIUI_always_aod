@@ -1,15 +1,13 @@
-更新日志（2023/03/16）：
-1.删除机型：civi2
-2.添加机型: MI 11 青春版/MI 8 SE
-3.优化排版，查看更简洁明了~
+更新日志（2023/03/20）：
+1.添加机型: Note 11E PRO/小米CC9系列
 
 Redmi：
 Note 12全系(Note12/Note 12 Pro/Note 12 Pro+/Note 12 Spped)
 redwood ruby sunstone
 
 
-Note 11 Pro
-vida
+Note 11 Pro(包含11E Pro)
+vida   veux
 
 
 K30Pro----lmi
@@ -44,5 +42,5 @@ renoir
 mona zijin
 
 
-
-
+小米CC系列(CC9/Pro/美图定制/CC9e)
+pyxis   tucana  vela   laurus
