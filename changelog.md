@@ -1,9 +1,12 @@
-###V1.7版本
+###V1.8版本
 <br />
-1.更新机型白名单(MI 11 青春版/MI 8 SE)
+1.更新机型白名单(MI CC9系列/Note 11E Pro)
 <br />
 <br />
 请注意！不要直接安装，会出bug，去 https://badnng.github.io/MIUI_always_aod/miuiaul.zip 下载之后再本地安装!!!
+<br />
+<br />
+大家可以在https://badnng.github.io/MIUI_always_aod/device_list.txt 中查看自己机型是否支持!
 <br />
 欢迎大家在issue里面补充机型！！<br />
 欢迎大家在issue里面补充机型！！
