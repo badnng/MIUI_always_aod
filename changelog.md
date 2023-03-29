@@ -1,6 +1,10 @@
 ###V1.9版本
 <br />
-1.更新机型白名单(小米10青春版/红米10X 5G系列)
+1.添加1款机型: Note 12 Pro+
+<br />
+2.修复一款机型的代号名称: Note 11 Pro
+<br />
+3.去除系列: 红米10X系列
 <br />
 <br />
 请注意！不要直接安装，会出bug，去 https://badnng.github.io/MIUI_always_aod/miuiaul.zip 下载之后再本地安装!!!
