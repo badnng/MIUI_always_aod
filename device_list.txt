@@ -1,5 +1,7 @@
-更新日志（2023/03/25）：
-1.添加3款机型: 小米10青春版/红米10X 5G系列
+更新日志（2023/03/29）：
+1.添加1款机型: Note 12 Pro+
+2.修复一款机型的代号名称: Note 11 Pro
+3.去除系列: 红米10X系列
 
 Redmi：
 Note 12全系(Note12/Note 12 Pro/Note 12 Pro+/Note 12 Spped)
@@ -7,7 +9,7 @@ redwood ruby sunstone
 
 
 Note 11 Pro(包含11E Pro)
-vida   veux
+pissarro   veux
 
 
 K30Pro----lmi
@@ -44,9 +46,3 @@ mona zijin
 
 小米CC系列(CC9/Pro/美图定制/CC9e)
 pyxis   tucana  vela   laurus
-
-
-小米数字系列(10X/10X Pro)*1
-atom  bomb
-
-*1.仅为5G版本，你4G的就别杠了，4G是LCD的
