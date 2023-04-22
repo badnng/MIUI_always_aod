@@ -1,11 +1,10 @@
-更新日志（2023/03/29）：
-1.添加1款机型: Note 12 Pro+
-2.修复一款机型的代号名称: Note 11 Pro
-3.去除系列: 红米10X系列
+更新日志（2023/04/22）：
+1.添加1款机型: Note 12 Turbo
+2.更改Note 12全系的排列顺序和代号表示逻辑
 
 Redmi：
-Note 12全系(Note12/Note 12 Pro/Note 12 Pro+/Note 12 Spped)
-redwood ruby sunstone
+Note 12全系(Note12/Note 12 Pro(Pro+)/Note 12 Spped/Note 12 Turbo)
+sunstone ruby redwood marble 
 
 
 Note 11 Pro(包含11E Pro)
